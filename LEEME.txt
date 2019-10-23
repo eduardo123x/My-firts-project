@@ -3,4 +3,5 @@ Autor: Eduardo Acevedo Valverde.
 
 # Tecnologia
 - Android Studio
-- SDK Oreo
+- SDK Pie 
+CAUAL OREO
