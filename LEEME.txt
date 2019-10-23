@@ -1,2 +1,6 @@
 Este proyecto es de mi empresa Bata. 
 Autor: Eduardo Acevedo Valverde.
+
+# Tecnologia
+- Android Studio
+- SDK Oreo
