@@ -4,3 +4,6 @@ Autor: Eduardo Acevedo Valverde.
 # Tecnologia
 - Android Studio
 - SDK Oreo
+
+
+Se han realizado cambios por parte del Dev.v1
